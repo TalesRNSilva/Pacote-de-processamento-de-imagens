@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: banco-POO
+Version: 0.0.1
+Summary: Teste de formação de pacotes
+Home-page: https://github.com/TalesRNSilva/Pacote-de-processamento-de-imagens/
+Author: Tales
+Author-email: talesrnsilva@gmail.com
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
