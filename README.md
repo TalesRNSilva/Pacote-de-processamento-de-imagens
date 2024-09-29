@@ -4,11 +4,11 @@ Esse é um projeto para desenvolver as habilidades no modulo de criação de pac
 
 Descrição:
 Esse pacote é usado para:
-    Implementar um sistema bancário com operações de:
+    - Implementar um sistema bancário com operações de:
         - Saque
         - Depósito
         - Extrato
-    Segmentado em:
+    - Segmentado em:
         - Classes de clientes
         - Classes de contas
         - Diferentes validações referentes a cada uma destas.
